@@ -4,7 +4,7 @@
 
 This is a refactored and modernized edition of [ace](https://ucsniff.sourceforge.net/ace.html), a simple yet powerful VoIP Corporate Directory enumeration tool that mimics the behavior of an IP Phone in order to download the name and extension entries that a given phone can display on its screen interface.
 
-This fork focuses on making the project usable on current systems:
+Key changes:
 
 - ✅ Fixed errors caused by old libraries
 - ✅ Fixed warnings caused by old-style coding
